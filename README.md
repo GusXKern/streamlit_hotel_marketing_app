@@ -1,4 +1,5 @@
-![Demonstration of the upload and email list generation](./streamlit_hotel_vid-ezgif.com-video-to-gif-converter.gif)
+
+
 
 # 🏨 Causal Campaign Targeting & ROI Optimizer
 
