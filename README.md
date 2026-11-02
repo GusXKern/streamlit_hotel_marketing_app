@@ -1,3 +1,5 @@
+![Demonstration of the upload and email list generation](./streamlit_hotel_vid-ezgif.com-video-to-gif-converter.gif)
+
 # 🏨 Causal Campaign Targeting & ROI Optimizer
 
 A production-grade data science project that shifts hotel marketing from traditional predictive analytics (who is likely to book?) to **causal inference** (who can be *persuaded* to book by an email discount?). 
